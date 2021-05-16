@@ -26,4 +26,4 @@ If you are using the dataset please cite the paper
 }
 ```
 
-The dataset can be downloaded from 
+The dataset can be downloaded from https://zenodo.org/record/4765597#.YKEB-yYo_0M
